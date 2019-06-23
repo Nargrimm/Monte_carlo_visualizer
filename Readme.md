@@ -1,4 +1,4 @@
-#Monte Carlo method visualizer
+# Monte Carlo method visualizer
 
 This project goal in to provide a visualization of the monte-carlo method use to get an approximation of PI.
 
