@@ -6,9 +6,6 @@
 double monte_carlo(double iteration)
 {
   size_t inside = 0;
-  size_t counter = 0;
-  double min = 0;
-  double max = 1.0;
   double x = 0;
   double y = 0;
 
@@ -51,7 +48,6 @@ int main(int argc, char *argv[])
     res += vect[i].get();
   }
   std::cout.precision(17);
-  double finalRes = res / numberOfThreads;
   std::cout << res / numberOfThreads << std::endl;
   return 0;
 }
