@@ -37,3 +37,9 @@ Launch it
 
 NB: If your goal is to get the best approximation of PI, use a really high value for the first parameter (the number of iteration), this will drastically increase the computing time but will improve your results. The second parameter (number of used thread) optimal value will depend on your CPU, increase it shall not increase the computing time (or barely) but will increase the precision.
 
+
+### Output
+
+![alt text](https://raw.githubusercontent.com/Nargrimm/Monte_carlo_visualizer/master/output_examples/monteCarlo_1.png)
+![alt text](https://raw.githubusercontent.com/Nargrimm/Monte_carlo_visualizer/master/output_examples/monteCarlo_2.png)
+![alt text](https://raw.githubusercontent.com/Nargrimm/Monte_carlo_visualizer/master/output_examples/monteCarlo_3.png)
