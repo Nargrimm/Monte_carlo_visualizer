@@ -9,9 +9,13 @@ Compile the cpp backend
 
  Launch the python front end
 
-`python3 plot.py`
+`./plot.py`
 
 This will output and HTML file called monteCarlo.html with the desired representation.
+
+You can custom the script parameters for more info see
+
+`./plot.py --help`
 
 
 ### Front end
